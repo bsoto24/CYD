@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WaveViewStyle">
+        <attr name="waveColor"
+            format="color"/>
+        <attr name="innerBgColor"
+            format="color"/>
+    </declare-styleable>
+</resources>
